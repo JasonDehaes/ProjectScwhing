@@ -1,0 +1,7 @@
+@media (max-width: 480px) {
+  .portfoliomain div {
+    margin-bottom: 1rem;
+    margin-top: 50px;
+    padding: 1.3rem;
+  }
+}
